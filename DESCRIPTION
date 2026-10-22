@@ -3,7 +3,7 @@ Title: Write Compressed Stata '.dta' Files
 Version: 0.1.0
 Authors@R: c(
     person("Graeme", "Blair", role = c("aut", "cre"),
-           email = "questions@deportationdata.org")
+           email = "questions@deportationdata.org"))
 Description: Writes compressed dta files, a functionality haven does not have.
 License: CC0
 Encoding: UTF-8
